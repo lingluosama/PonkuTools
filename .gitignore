@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+captures/
+.tmp/
+葛卜出击-decompiled/
+
+# Local release signing material
+keystore.properties
+**/keystore/
+*.jks
+*.keystore
+*.p12
+

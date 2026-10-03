@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">邦古工具箱</string>
+    <string name="accessibility_label">邦古工具箱坐标点击服务</string>
+    <string name="accessibility_description">在用户明确开启自动点击后，根据本地 OCR 识别结果执行单次坐标点击。</string>
+</resources>
+
